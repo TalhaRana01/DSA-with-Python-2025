@@ -190,10 +190,32 @@ for x in range(1,11):
 
 for x in range(1,11,2):
   print(x, end=" ")
-  
+
 for x in range(20,0,-1):
   print(x, end=" ")
+
+
 ```
+
+**Functions**
+
+```python
+
+def sum(a, b):
+  print(a + b)
+
+print(10,20)
+
+# return function
+def sum(a, b):
+  sum = a + b
+  return sum
+
+result = sum(10,20)
+print(result)
+
+```
+
 
 
 
