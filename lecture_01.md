@@ -16,12 +16,12 @@
 12. Assignments
 
 
-# What is Programming Language?
+# 1. What is Programming Language?
 
 A prgramming language us a formal language that prvides instructions for a computers to execute. It's how humans communicate with computers to create software, applications, and other technology.
 
 
-# High Level Language Vs Low level Programming Language
+# 2. High Level Language Vs Low level Programming Language
 
 **Low Level** : Machine only understand binary language / assembly language / low level language.  01010101
 
@@ -30,7 +30,7 @@ A prgramming language us a formal language that prvides instructions for a compu
 
 Computers can not undersatnd **high level language** so we need to convert high level language into **low level lanaguage** or binary language
 
-Complier and Interoreter 
+# 3. Complier and Interoreter 
 
 # Complier 
 
@@ -48,7 +48,7 @@ Complier and Interoreter
 3. Fast in Analyze 
 
 
-# Introduction to Python
+# 4. Introduction to Python
 
 **Python** is a versatile high-level, general-purpose programming language designed for readablity and ease of use.
 
@@ -58,3 +58,10 @@ Complier and Interoreter
 3. Object-oriented
 4. Extensive libraries
 5. Beginner-friendly
+
+# 5.  Varibles/Keywords/Identifiers/Comments/
+
+
+1. **Variables**
+
+Container that store data in computer memory
