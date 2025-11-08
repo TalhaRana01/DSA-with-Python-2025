@@ -87,18 +87,28 @@ you can use comments for understading the codes. its not executable code
 **Operators**
 
 Arithemic Operators:
-1. Addition +
-2. Substraction -
-3. Division /
-4. Mudulus %
-5. Floor division //
-6. Exponentiation **
-7. Muliplication *
+1. Addition `+`
+2. Substraction -`
+3. Division `/`
+4. Mudulus `%`
+5. Floor division `//`
+6. Exponentiation `**`
+7. Muliplication `*`
 
 **Assignment Operators**
 
 Used to assign values to variables.
-1. = (Assign)
-1. += (add and assign)
-1. _= (Subtract and assign)
-1. *= (Multiply and assign)
+1. `=` (Assign)
+2. `+=` (add and assign)
+3. `_=` (Subtract and assign)
+4. `*=` (Multiply and assign)
+
+**Comperison Operators**
+
+1. `==` (Equal to)
+1. `!=` (not equal to)
+1. `">`(Greater than)
+1. `>=` (Greater than or equal to)
+1. `<=` (Less than or equal to)
+
+
