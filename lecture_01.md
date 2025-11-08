@@ -78,3 +78,8 @@ Name that we provide to variables/functions/class
 1. variables names for declaring 
 2. functions names
 3. class names
+
+**Comments**
+you can use comments for understading the codes. its not executable code
+1. Single line comments  # This is a single line comments
+2. Multi-Line comments  ""This is multi line comments""
