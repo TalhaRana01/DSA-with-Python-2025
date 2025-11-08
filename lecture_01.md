@@ -106,9 +106,19 @@ Used to assign values to variables.
 **Comperison Operators**
 
 1. `==` (Equal to)
-1. `!=` (not equal to)
-1. `">`(Greater than)
-1. `>=` (Greater than or equal to)
-1. `<=` (Less than or equal to)
+2. `!=` (not equal to)
+3. `">`(Greater than)
+4. `>=` (Greater than or equal to)
+5. `<=` (Less than or equal to)
+
+
+**Logical Operators**
+Used to combine to conditional statements.
+
+1. `and` (Logical AND)
+2. `or` (Logical OR)
+3. `not` (Logical Not)
+
+
 
 
