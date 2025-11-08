@@ -83,3 +83,14 @@ Name that we provide to variables/functions/class
 you can use comments for understading the codes. its not executable code
 1. Single line comments  # This is a single line comments
 2. Multi-Line comments  ""This is multi line comments""
+
+**Operators**
+
+Arithemic Operators:
+1. Addition +
+2. Substraction -
+3. Division /
+4. Mudulus %
+5. Floor division //
+6. Exponentiation **
+7. Muliplication *
