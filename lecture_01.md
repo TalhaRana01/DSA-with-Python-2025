@@ -120,5 +120,12 @@ Used to combine to conditional statements.
 3. `not` (Logical Not)
 
 
+**Membership Operators**
+
+Used to check if a value is a part of a sequence
+
+1. `in` (Returns True if a value is found in the sequence)
+1. `not in` (Returns True if a value is  not found in the sequence)
+
 
 
