@@ -65,3 +65,12 @@ Computers can not undersatnd **high level language** so we need to convert high 
 1. **Variables**
 
 Container that store data in computer memory
+
+**Keywords**
+Predefined words that having any meaning in Programming Language
+1. `while`
+2. `def`
+3. `for`
+4. `if`
+
+**Identifiers**
