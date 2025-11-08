@@ -74,3 +74,7 @@ Predefined words that having any meaning in Programming Language
 4. `if`
 
 **Identifiers**
+Name that we provide to variables/functions/class
+1. variables names for declaring 
+2. functions names
+3. class names
