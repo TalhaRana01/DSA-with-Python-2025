@@ -163,4 +163,38 @@ else:
  
  ```
 
+ **Loops**
+ - `for`
+
+ - `while`
+
+ ```python
+ 
+ i = 0
+
+ while i<5:
+  print(i, end=" ")
+  i+=1
+
+list1 = [1, 2, 3, 4, 5]
+
+for list in list1
+  print(list)
+ 
+ ```
+# `Range function `
+
+```python
+for x in range(1,11):
+  print(x, end=" ")
+
+for x in range(1,11,2):
+  print(x, end=" ")
+  
+for x in range(20,0,-1):
+  print(x, end=" ")
+```
+
+
+
 
