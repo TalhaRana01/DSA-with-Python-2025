@@ -94,3 +94,11 @@ Arithemic Operators:
 5. Floor division //
 6. Exponentiation **
 7. Muliplication *
+
+**Assignment Operators**
+
+Used to assign values to variables.
+1. = (Assign)
+1. += (add and assign)
+1. _= (Subtract and assign)
+1. *= (Multiply and assign)
