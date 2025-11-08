@@ -140,9 +140,27 @@ Used to check if a value is a part of a sequence
    email = input("Enter your email")
    age = int(input("Enter your age"))
    height = float(input("Enter your height"))
-   
+
   # Display user value
    print(f"My Name is {first_name}, email is {emai}, and I'm{age} years old, and total height is {height} ")
 
  ```
+
+ **Control Satements**
+
+ `if` and `else` statements  to control the flow
+
+
+ ```python
+
+ age = int(input("Enter your age"))
+
+ if age >= 18:
+  print("Englible for vote.)
+else:
+  print("Not eligible for vote)
+ 
+ 
+ ```
+
 
