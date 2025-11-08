@@ -125,7 +125,24 @@ Used to combine to conditional statements.
 Used to check if a value is a part of a sequence
 
 1. `in` (Returns True if a value is found in the sequence)
-1. `not in` (Returns True if a value is  not found in the sequence)
+2. `not in` (Returns True if a value is  not found in the sequence)
 
 
+
+ **Input & Output Python**
+
+ Take values from users through input functions
+ ```python
+   
+
+  #  Input functions take user value 
+   first_name = input("Enter your name")
+   email = input("Enter your email")
+   age = int(input("Enter your age"))
+   height = float(input("Enter your height"))
+   
+  # Display user value
+   print(f"My Name is {first_name}, email is {emai}, and I'm{age} years old, and total height is {height} ")
+
+ ```
 
