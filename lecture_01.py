@@ -26,15 +26,29 @@ heighht = 5.6       # float number value
 # print(f"My Name is {first_name}, email is {email}, and I'm {age} years old, and total height is {height} ")
 
 
-num1 = int(input("Enter num 1 :"))
-num2 = int(input("Enter num  2 :"))
+# num1 = int(input("Enter num 1 :"))
+# num2 = int(input("Enter num  2 :"))
 
 
-print(f"\nTotal sum of {num1} and {num2} is = {num1 + num2}")
-print(f"\nTotal sum of {num1} and {num2} is = {num1 - num2}")
-print(f"\nTotal sum of {num1} and {num2} is = {num1 / num2}")
-print(f"\nTotal sum of {num1} and {num2} is = {num1 % num2}")
-print(f"\nTotal sum of {num1} and {num2} is = {num1 * num2}")
-print(f"\nTotal sum of {num1} and {num2} is = {num1 ** num2}")
+# print(f"\nTotal sum of {num1} and {num2} is = {num1 + num2}")
+# print(f"\nTotal sum of {num1} and {num2} is = {num1 - num2}")
+# print(f"\nTotal sum of {num1} and {num2} is = {num1 / num2}")
+# print(f"\nTotal sum of {num1} and {num2} is = {num1 % num2}")
+# print(f"\nTotal sum of {num1} and {num2} is = {num1 * num2}")
+# print(f"\nTotal sum of {num1} and {num2} is = {num1 ** num2}")
+
+
+# Simple function
+# def welcome():
+#   print("Welcome to DSA in Python 2025")
+  
+# welcome()
+
+# Simple function with return
+def welcome():
+  return f"Welcome to DSA in Python 2025"
+  
+functiona_store = welcome()
+print(functiona_store)
 
 
