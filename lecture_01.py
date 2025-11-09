@@ -45,10 +45,28 @@ heighht = 5.6       # float number value
 # welcome()
 
 # Simple function with return
-def welcome():
-  return f"Welcome to DSA in Python 2025"
+# def welcome():
+#   return f"Welcome to DSA in Python 2025"
   
-functiona_store = welcome()
-print(functiona_store)
+# functiona_store = welcome()
+# print(functiona_store)
 
+
+# def sum(a, b):
+#   sum = a + b
+#   return sum
+
+# result = sum(10, 20)
+# print(result)
+
+
+
+# age = 20
+
+# age = int(input("Enter your age : "))
+
+# if age >= 18:
+#   print("eligible for vote")
+# else:
+#   print("Not eligible for vote")
 
