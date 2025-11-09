@@ -16,13 +16,13 @@ user_name = input("Enter your name ")
 print(f"My name is {user_name}")
 
 
- Input functions take user value 
+#  Input functions take user value 
 first_name = input("Enter your name")
 email = input("Enter your email")
 age = int(input("Enter your age"))
 height = float(input("Enter your height"))
 
-Display user value
+# Display user value
 print(f"My Name is {first_name}, email is {email}, and I'm {age} years old, and total height is {height} ")
 
 
@@ -38,13 +38,13 @@ print(f"\nTotal sum of {num1} and {num2} is = {num1 * num2}")
 print(f"\nTotal sum of {num1} and {num2} is = {num1 ** num2}")
 
 
-Simple function
+# Simple function
 def welcome():
   print("Welcome to DSA in Python 2025")
   
 welcome()
 
-Simple function with return
+# Simple function with return
 def welcome():
   return f"Welcome to DSA in Python 2025"
   
