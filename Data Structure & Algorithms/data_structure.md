@@ -21,3 +21,14 @@ Kuch line of code ha jo data ko manipulate krta ha
 # Data
 
 ## Data organized bhi ho skta ha unorganized bhi ho skta ha
+
+## Example person A:
+
+Create folder in Drive D and make seperate folder for differnt each content like movie folder, music folder
+
+In Example person A Organized data is easy to search and sorting.
+
+## Example person B:
+Simply save content without folder  like mess up the content.
+
+> #  Organized Data is very important for searching, saving, sorting
