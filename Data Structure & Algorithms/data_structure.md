@@ -3,6 +3,15 @@
 
 A data structure is a particular way of organizing data in a computer's MEMORY so that it can be used effectively by program code.
 
+> ## 1. Data ko organized tariqe sy memory main rakhny  ko kehty hain Data Structure jis per algorithems sahi perform kry ga.
+
+> ## Data Structure means => Organized Data in Computer's Memory (RAM).
+
+---
+
+---
+
+
 > # Software => Program => Process
 
 # What is Software?
@@ -32,3 +41,10 @@ In Example person A Organized data is easy to search and sorting.
 Simply save content without folder  like mess up the content.
 
 > #  Organized Data is very important for searching, saving, sorting
+
+## **Organized Data and Unorganized Data:**
+
+> # Searching data in organized data will be fast and helpful for this process.
+
+
+## Agr data organized ha to algorithms apkay efficient kam kr payen ge
