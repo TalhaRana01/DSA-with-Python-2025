@@ -1,8 +1,10 @@
 # What is Algorithms ?
 
-## ```A process of set of rules to be followed in calculations or other problem-solving operations especially by computer```
+## ```Algorithm is a process or a set of well-defined rules or steps to be followed in calculations or other problem-solving operations, especially by a computer. In simple terms: An algorithm is a sequence of steps designed to solve a specific problem in software.```
 
-## ```Algo is all about solution to specific problem in software```
+## ```Algo is all about solution steps to specific problem in software```
+
+## ```Kisi bhi problem ko solve karne ke liye ek ya zyada steps liye ja sakte hain — kabhi aik step hota hai, kabhi hazaron steps bhi ho sakte hain.```
 
 
 
@@ -12,17 +14,17 @@
 **Each software devlopment have specific purpose to solve problems like playing songs, movies**
 
 ## **Step 1. Identify the Purpose or specific Problem** 
-# ```Software write krnay ka koi na koi purpose ya problem solving hogi```
+# ```Explanation: Every software is created to solve a particular problem or to achieve a specific purpose.```
 
-## ``` Software development ka koi na koi maqsad hota ha kisi bhi problem ko hal kiya jaye. jb humhan software development ka purpose ya maqsad pta chal jaye to phir hum us specific problems ko hal krny ky liye software write krty hain  ya hum khud koi software write krty hain jo koi na ko problems solve ya specific kam kry ga ```
+## ```Har software likhne ka koi na koi purpose hota hai — ya to kisi problem ko solve karna, ya koi specific task perform karna.Jab humein software development ka maqsad samajh aa jata hai, tab hum us specific problem ke solution ke liye software likhte hain — ya khud koi software design karte hain jo kisi khas kaam ya problem ko solve kare.```
 
-## **Step 2. Solution for Problem (Agorithms)** 
+## **Step 2. Solution for the Problem (Agorithms)** 
 
-## ``` Particular software ko write krny sy phley hum real time logical possibilities likhty hain kesa software hoga kia kia functionalities hon hn kesa design hoga .```
+## ``` Software likhne se pehle hum logical steps likhte hain — ke software kaisa hoga, usme kaunsi functionalities hongi, aur wo problem ko kaise solve karega. Yehi algorithm kehlata hai..```
 
 ## **Step 3. Building the Program or writing software** 
 
-## ``` Jab problem samjh agai or hum ny uska solution likh liya us ky bad hum software development start krain ge.```
+## ```Jab problem samajh aajati hai aur hum uska solution (algorithm) likh lete hain, to phir hum software development start karte hain — yani code likhna aur program banana.```
 
 
 
