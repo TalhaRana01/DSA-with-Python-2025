@@ -29,3 +29,10 @@
 
 
 
+# Propertices of Algorithms
+## ```Algorithm ki properties wo zaroori khasusiyatain hain jo har algorithm mein honi chahiye taake wo sahi aur effectively kaam kar sake.```
+
+1. `Input`
+2. `Output`
+3. `Definiteness`
+4. `Finiteness`
