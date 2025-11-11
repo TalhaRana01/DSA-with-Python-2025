@@ -29,6 +29,8 @@ Algorithm ko jb hum apni langauge main likhty hain apni understanding ky liye us
 
 
 ``` 
+Example 1:
+
 MAX(number a, number b, max ):
 
 step 1. input a & b 
@@ -38,5 +40,18 @@ step 2. compare a is greater than b
 step 3. a > b
       agr a greater ha to  max  a hoga
       agr b greater ha to max  b hoga
+
+Example 2: 
+
+ADD Two Numbers 
+
+number 1 
+number 2 
+
+number 1 + number 2 
+
+display sum = number 1 + number 2
+
+
 
 ```
