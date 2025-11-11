@@ -36,3 +36,5 @@
 2. `Output`
 3. `Definiteness`
 4. `Finiteness`
+
+## `input` jb use hoga jb human apny algorithm main userssy koi value leni ho 
