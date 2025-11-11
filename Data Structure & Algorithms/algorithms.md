@@ -46,3 +46,8 @@
 
 ## `Definiteness (well-defined all steps)` 
 ```har algorithm step ko sahi tarha sy or chota likhain ya algorithm ko short or concise likhain ```
+
+
+## `Finiteness (Taking small steps to solve any problem)` 
+```kisi bhi problem ko solve krty waqt jo hum small steps lety hain kah ya problem es steps ye solve hogi ya step to step problems ko solve krty hain  ```
+
