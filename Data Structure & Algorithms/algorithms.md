@@ -40,5 +40,5 @@
 ## `input` 
 ```agr kisi algorithm main hum input chahye to wo user sy le skty han kisi mian option hota ha means ya kah ya options ha ```
 
-## `Output` 
+## `Output (Result)` 
 ``` jb hum koi bhi algorithm likhty hain uska koi na koi result lazmi aye ga us result ko hum display main kr skty hain ya store kr skty hain kisi dosry algorithm ko de skty hain  ```
