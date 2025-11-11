@@ -42,3 +42,7 @@
 
 ## `Output (Result)` 
 ``` jb hum koi bhi algorithm likhty hain uska koi na koi result lazmi aye ga us result ko hum display main kr skty hain ya store kr skty hain kisi dosry algorithm ko de skty hain  ```
+
+
+## `Definiteness (well-defined all steps)` 
+```har algorithm step ko sahi tarha sy or chota likhain ya algorithm ko short or concise likhain ```
