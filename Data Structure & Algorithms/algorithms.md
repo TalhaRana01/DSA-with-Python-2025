@@ -37,4 +37,8 @@
 3. `Definiteness`
 4. `Finiteness`
 
-## `input` jb use hoga jb human apny algorithm main userssy koi value leni ho 
+## `input` 
+```agr kisi algorithm main hum input chahye to wo user sy le skty han kisi mian option hota ha means ya kah ya options ha ```
+
+## `Output` 
+``` jb hum koi bhi algorithm likhty hain uska koi na koi result lazmi aye ga us result ko hum display main kr skty hain ya store kr skty hain kisi dosry algorithm ko de skty hain  ```
