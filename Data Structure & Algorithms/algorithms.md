@@ -44,10 +44,11 @@
 ``` jb hum koi bhi algorithm likhty hain uska koi na koi result lazmi aye ga us result ko hum display main kr skty hain ya store kr skty hain kisi dosry algorithm ko de skty hain  ```
 
 
-## `Definiteness (well-defined all steps)` 
+## `Definiteness (well-defined all steps(process))` 
 ```har algorithm step ko sahi tarha sy or chota likhain ya algorithm ko short or concise likhain ```
 
 
 ## `Finiteness (Taking small steps to solve any problem)` 
-```kisi bhi problem ko solve krty waqt jo hum small steps lety hain kah ya problem es steps ye solve hogi ya step to step problems ko solve krty hain  ```
+```kisi bhi problem ko solve krty waqt jo hum small steps lety hain kah ya problem es steps ye solve hogi ya step to step problems ko solve krty hain  steps zada ho skty hain kisi bhi problem ky solution ky liye mgr unfinited nahi ho skty```
+
 
