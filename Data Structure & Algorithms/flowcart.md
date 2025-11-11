@@ -53,3 +53,16 @@
 
 
 ```
+
+
+## ⚙️ Summary:
+
+> ## Start/End: Program ka start aur finish point.
+
+Input/Output: Data lena ya result dikhana.
+
+Process: Koi kaam ya calculation karna.
+
+Decision: Check karna condition (true/false).
+
+Arrows: Flow ka direction dikhana.
