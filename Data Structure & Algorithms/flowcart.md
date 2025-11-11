@@ -10,3 +10,12 @@
 ## 1. `ASNI standards ky hisab sy hum flowchart ky symbols use karain ge na kah apni marzi sy.`
 
 ## 2. `Flowchart diagram shapes starndards are for sharing`
+
+| Symbol |            Naam            | Matlab (Roman Urdu main)                                              | Markdown/Text Representation                    |
+| :----: | :------------------------: | :-------------------------------------------------------------------- | :---------------------------------------------- |
+|   🔷   | **Terminator (Start/End)** | Program ke start aur end ko dikhata hai                               | `🔷 START / END`                                |
+|    ⬛   |         **Process**        | Koi action ya calculation hoti hai (e.g., sum = a + b)                | `[ Process: sum = a + b ]`                      |
+|   🔺   |        **Decision**        | Yahan par condition check hoti hai (Yes/No)                           | `🔺 IF condition ?`                             |
+|    ⬜   |     **Input / Output**     | User se data lena ya output dikhana                                   | `[ Input: Enter a ]` or `[ Output: Print sum ]` |
+|   ⬇️   |   **Flow Lines (Arrows)**  | Steps ke beech connection dikhata hai                                 | `↓` or `→`                                      |
+|   🔘   |        **Connector**       | Flowchart ke different parts ko connect karta hai (agar jagah kam ho) | `(Connector)`                                   |
