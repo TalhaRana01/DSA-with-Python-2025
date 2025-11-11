@@ -19,3 +19,22 @@
 |    ⬜   |     **Input / Output**     | User se data lena ya output dikhana                                   | `[ Input: Enter a ]` or `[ Output: Print sum ]` |
 |   ⬇️   |   **Flow Lines (Arrows)**  | Steps ke beech connection dikhata hai                                 | `↓` or `→`                                      |
 |   🔘   |        **Connector**       | Flowchart ke different parts ko connect karta hai (agar jagah kam ho) | `(Connector)`                                   |
+
+
+💡 Example: Add Two Numbers 
+
+```text
+🔷 START
+   ↓
+⬜ Input num1
+   ↓
+⬜ Input num2
+   ↓
+⬛ Process: sum = num1 + num2
+   ↓
+⬜ Output: Print sum
+   ↓
+🔷 END
+
+
+```
