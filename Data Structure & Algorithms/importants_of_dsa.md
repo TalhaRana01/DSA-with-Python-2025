@@ -15,3 +15,6 @@
 4. To Reusebility of Data.
 5. To improve Abstraction of Program.
 6. To Solve Real World Problems.
+
+# `Time-Space Trade-Off`
+## `Kisi bhi program main space jitni hi kam hogi utni hi speed zada hogi`
