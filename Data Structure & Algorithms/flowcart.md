@@ -66,3 +66,6 @@ Process: Koi kaam ya calculation karna.
 Decision: Check karna condition (true/false).
 
 Arrows: Flow ka direction dikhana.
+
+
+
