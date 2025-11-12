@@ -12,7 +12,7 @@
 1. To build an efficient program.
 2. Easy to write a program or logic of program.
 3. To increase Program execution Speed.
-4. To Reusebility of Data.
+4. To Reusebility of Data. (Multiple task perform on same data)
 5. To improve Abstraction of Program.
 6. To Solve Real World Problems.
 
