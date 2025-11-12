@@ -75,3 +75,13 @@ Arrows: Flow ka direction dikhana.
 2. Eraser
 3. Draw.io
 4. Microsoft Visio
+
+
+`Flowchart is used for module in program means small steps. Flowchart developed to show to the developers `
+
+1. ❌ Not Suitable for Software Modeling.
+2. ❌ No Suitable for explaining events in software.
+3. ❌ Not Suitable for OOPs Software.
+4. ❌ Not Suitable for Stackholder.(QA, Management, Customers, Client, End User).
+5. ❌ Not Suitable for behavioral study.
+5. ❌ Not Suitable for Actors.
