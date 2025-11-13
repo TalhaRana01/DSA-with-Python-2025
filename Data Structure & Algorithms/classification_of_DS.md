@@ -6,7 +6,7 @@
 
 ## `Basic Data Structure | Primary Data Structure | Build-in Data Structure in form of data type | Mostly primitive data avaiable in all language as a data types `
 
-## 1. `Primitive Data Structure:` Single Data ko manage krta ha
+# 1. `Primitive Data Structure:` Single Data ko store krty hain
 
         1. Numerical data Integer
           example: 
@@ -44,4 +44,16 @@
      a = None
 
 
-## 2. `Non- Primitive Data Structure:` Multiple data
+
+# 2. `Non- Primitive Data Structure:` Multiple data ko store krty hain
+
+      1. Array
+      2. Linked List
+      3. Stacks
+      4. Qeue
+      5. Tree
+      6. Graph
+      7. Map | Associated Array | Hash table | Dictionary {key: value}
+      8. Multimap
+      9. Bag
+      10.File
