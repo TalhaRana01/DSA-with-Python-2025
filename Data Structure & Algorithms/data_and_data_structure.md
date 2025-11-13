@@ -40,3 +40,7 @@
 1. Data: Tumhara phone contacts list (names aur numbers)
 
 2. Data Structure: Contacts app jo unhe alphabetically sort karti hai aur fast search karti hai.
+
+
+1. Organized data store permmently store in harddrive called database
+1. Organized data store in Memory in RAM called data structure
