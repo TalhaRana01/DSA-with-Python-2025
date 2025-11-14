@@ -4,7 +4,7 @@
  1. Data item (singular data)
  1. Data group (list of data/multiple data)
 
-## `Basic Data Structure | Primary Data Structure | Build-in Data Structure in form of data type | Mostly primitive data avaiable in all language as a data types `
+## `Primitive Data struture aik Basic Data Structure ha esko Primary Data Structure ya built-in data structure bol skty almost har language main koi na koi data structure hota ha kesy hum data types kehty hain `
 
 # 1. `Primitive Data Structure:` Single Data ko store krty hain
 
@@ -24,7 +24,7 @@
           example: 
                   2 + 3j
 
-## 2. `Character Data Structure:` Single Letter
+## 2. `Character Data Structure:` Single Letter storage
 
       Example
         A, a, 2

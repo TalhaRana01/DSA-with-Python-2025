@@ -5,7 +5,7 @@
 **As a Developer :** we must know about data structure, and algorithons for building efficient software.
 
 
-**Data Structure :**  means organized Data
+**Data Structure :**   `means organized Data`
 
 **Algorithm :** Process on Data | Task performing on Data
 

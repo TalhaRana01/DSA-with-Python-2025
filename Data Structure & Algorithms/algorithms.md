@@ -13,8 +13,10 @@
 # Why Algorithms so important?
 **Each software devlopment have specific purpose to solve problems like playing songs, movies**
 
-## **Step 1. Identify the Purpose or specific Problem** 
 # ```Explanation: Every software is created to solve a particular problem or to achieve a specific purpose.```
+
+## **Step 1. Identify the Purpose or specific Problem** 
+
 
 ## ```Har software likhne ka koi na koi purpose hota hai — ya to kisi problem ko solve karna, ya koi specific task perform karna.Jab humein software development ka maqsad samajh aa jata hai, tab hum us specific problem ke solution ke liye software likhte hain — ya khud koi software design karte hain jo kisi khas kaam ya problem ko solve kare.```
 
